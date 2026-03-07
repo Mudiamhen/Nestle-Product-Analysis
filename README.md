@@ -25,10 +25,10 @@ Cleaning the data (Data Analytics)
 4. Support data-driven decision making for reducing churn and increasing customer satisfction.
 
 ### Specifications
-***Data Sources**: Import data from source provided as CSV files.
-***Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-***Scope**: Focus on the latest dataset and past once.
-***Documentization**: Provide clear documentation of the data model to support both it's stakeholders and analytics team.
+- **Data Sources**: Import data from source provided as CSV files.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+- **Scope**: Focus on the latest dataset and past once.
+- **Documentization**: Provide clear documentation of the data model to support both it's stakeholders and analytics team.
 
 ---
 
