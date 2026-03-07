@@ -9,8 +9,12 @@ This project involves:
 1. **Data Cleaning:** Cleaning the Netflix data and assigning names to numeric datasets which can prove complex to analyze
 2. **Analytical & Reporting:** Creating Excel-based reports and dashboard for actionable insights.
 
-This repository is an excellent resource for professional looking to showcase expertise in
-- 
+###This repository is an excellent resource for professional looking to showcase expertise in
+- Excel Development
+- Data Cleaning
+- Data wrangling
+- Data Analytics
+
 ## Project Requirments
 Cleaning the data (Data Analytics)
 
@@ -20,3 +24,12 @@ Cleaning the data (Data Analytics)
 3. Provide insights and recommendations to improve customer retention strategies.
 4. Support data-driven decision making for reducing churn and increasing customer satisfction.
 
+### Specifications
+-**Data Sources**: Import data from source provided as CSV files.
+-**Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+-**Scope**: Focus on the latest dataset and past once.
+-**Documentization**: Provide clear documentation of the data model to support both it's stakeholders and analytics team.
+
+---
+
+### BI: Analytics & Reporting (Data Analtics)
